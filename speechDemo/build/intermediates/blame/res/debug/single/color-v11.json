@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\speechDemo\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\speechDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\speechDemo\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\speechDemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

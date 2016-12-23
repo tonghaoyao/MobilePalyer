@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_header.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\src\\main\\res\\layout\\xlistview_header.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\build\\intermediates\\res\\merged\\debug\\layout\\xlistview_footer.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\xListView\\src\\main\\res\\layout\\xlistview_footer.xml"
+    }
+]

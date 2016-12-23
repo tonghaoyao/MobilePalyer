@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_button.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\exploded-aar\\MobilePalyer2\\vitamio\\unspecified\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\exploded-aar\\MobilePalyer2\\vitamio\\unspecified\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\exploded-aar\\MobilePalyer2\\vitamio\\unspecified\\res\\drawable\\scrubber_control_selector_holo.xml"
+    }
+]

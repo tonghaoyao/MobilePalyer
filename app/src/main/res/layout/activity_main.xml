@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tonghaoyao.mobilepalyer2.view.TitleBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--标题栏-->
+    <include layout="@layout/titlebar" />
+
+    <!--FrameLayout-->
+    <FrameLayout
+        android:id="@+id/fl_main_content"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+    <!--RadioGroup-->
+    <RadioGroup
+        android:id="@+id/rg_bottom_tag"
+        android:padding="3dp"
+        android:background="#11000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        >
+
+        <RadioButton
+            android:text="本地视频"
+            android:id="@+id/rb_video"
+            android:drawableTop="@drawable/rb_video_drawable_selector"
+            style="@style/bottom_tag_style"
+
+            />
+        <RadioButton
+            android:text="本地音频"
+            android:id="@+id/rb_audio"
+            android:drawableTop="@drawable/rb_audio_drawable_selector"
+            style="@style/bottom_tag_style"
+
+            />
+        <RadioButton
+            android:text="网络视频"
+            android:id="@+id/rb_net_video"
+            android:drawableTop="@drawable/rb_net_video_drawable_selector"
+            style="@style/bottom_tag_style"
+
+            />
+        <RadioButton
+            android:text="网络音乐"
+            android:id="@+id/rb_net_audio"
+            android:drawableTop="@drawable/rb_net_audio_drawable_selector"
+            style="@style/bottom_tag_style"
+
+            />
+    </RadioGroup>
+
+</com.tonghaoyao.mobilepalyer2.view.TitleBar>

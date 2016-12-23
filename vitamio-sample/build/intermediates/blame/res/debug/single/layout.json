@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle1.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\subtitle1.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayer_1.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\mediaplayer_1.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\media_metadata.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\media_metadata.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayer_3.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\mediaplayer_3.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\mediacontroller.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\exploded-aar\\MobilePalyer2\\vitamio\\unspecified\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\videobuffer.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\videobuffer.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\videoview.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\mediaplayer_2.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\mediaplayer_2.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\subtitle2.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\subtitle2.xml"
+    },
+    {
+        "merged": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\build\\intermediates\\res\\merged\\debug\\layout\\videoview2.xml",
+        "source": "F:\\Android\\MyProject\\MobilePalyer2\\vitamio-sample\\res\\layout\\videoview2.xml"
+    }
+]
